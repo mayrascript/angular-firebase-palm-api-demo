@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "public",
+    "public": "dist/chatbot-palm-demo",
     "ignore": [
       "firebase.json",
       "**/.*",
