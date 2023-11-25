@@ -1,5 +1,5 @@
 export const environment = {
   firebase: {
-    // Add here the firebase configs
+    // add firebase configs here
   }
 };
