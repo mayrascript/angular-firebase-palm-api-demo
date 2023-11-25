@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  padding: 30px;
+  font-size: 16px;
+  background: #f8fafb;
+}
+
+button, input {
+  font-size: 16px;
+}
